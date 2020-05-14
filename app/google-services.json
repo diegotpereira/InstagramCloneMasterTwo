@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "382282205006",
+    "firebase_url": "https://whatsappclonemasterfive.firebaseio.com",
+    "project_id": "whatsappclonemasterfive",
+    "storage_bucket": "whatsappclonemasterfive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382282205006:android:76f0f9ce08127405e6801f",
+        "android_client_info": {
+          "package_name": "br.com.myapplication.instagramclonemastertwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382282205006-ni51qrd55d8ttiks3i9hgm5la10utru6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzrkE5gEZB5OWaFGVpMaqtZaxQaBPrmNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382282205006-ni51qrd55d8ttiks3i9hgm5la10utru6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382282205006:android:8cb95f313ae1d702e6801f",
+        "android_client_info": {
+          "package_name": "br.com.myapplication.whatsappclonemasterone.activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382282205006-ni51qrd55d8ttiks3i9hgm5la10utru6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzrkE5gEZB5OWaFGVpMaqtZaxQaBPrmNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382282205006-ni51qrd55d8ttiks3i9hgm5la10utru6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382282205006:android:500b75bf7ed39926e6801f",
+        "android_client_info": {
+          "package_name": "com.example.instagramclonemasterone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382282205006-ni51qrd55d8ttiks3i9hgm5la10utru6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzrkE5gEZB5OWaFGVpMaqtZaxQaBPrmNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382282205006-ni51qrd55d8ttiks3i9hgm5la10utru6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
