@@ -44,7 +44,7 @@
             android:background="@android:color/transparent"
             android:layout_margin="10dp"
             android:id="@+id/tagpepole"
-            android:text="Tag People"
+            android:text="Marque alguém"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <View
@@ -59,7 +59,7 @@
             android:background="@android:color/transparent"
             android:layout_margin="10dp"
             android:id="@+id/ADDLOCATION"
-            android:text="Add Location"
+            android:text="Adicionar localização"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <View
@@ -73,7 +73,7 @@
             android:textSize="15dp"
             android:background="@android:color/transparent"
             android:layout_margin="10dp"
-            android:text="Also Post to"
+            android:text="Compartilhar em"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <LinearLayout
@@ -161,7 +161,7 @@
             android:textColor="@android:color/white"
             android:layout_margin="10dp"
             android:id="@+id/upload"
-            android:text="Share"
+            android:text="Compartilhar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </LinearLayout>

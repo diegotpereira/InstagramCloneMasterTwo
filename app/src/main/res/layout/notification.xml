@@ -34,7 +34,7 @@
             android:textSize="18dp"
             android:layout_margin="5dp"
             android:textColor="@android:color/black"
-            android:text=" 454 curtiram seu post  2W"
+            android:text="454 curtiram sua publicação"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
     </LinearLayout>
